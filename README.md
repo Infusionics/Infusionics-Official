@@ -1,5 +1,5 @@
 # Infusionics Official
-Welcome to Infusionics! This repository contains open-source projects focused on scalable web apps, cloud solutions, machine learning, and automation tools. We aim to deliver innovative software that enhances efficiency and drives digital transformation. Contributions and collaboration are welcome!
+Welcome to <a href="https://infusionics.com/">Infusionics</a>! This repository contains open-source projects focused on scalable web apps, cloud solutions, machine learning, and automation tools. We aim to deliver innovative software that enhances efficiency and drives digital transformation. Contributions and collaboration are welcome!
 Infusionics: Revolutionizing Software Development with Cutting-Edge Solutions
 In the rapidly evolving world of technology, companies are constantly seeking innovative ways to stay ahead of the curve. One such company that has made its mark in the software development industry is Infusionics. Known for its commitment to quality and efficiency, Infusionics has become a leader in providing top-tier software solutions that meet the unique needs of businesses across various industries.
 
